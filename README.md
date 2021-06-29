@@ -2,7 +2,7 @@
 This application helps any courier service provider to create new placed orders for merchants and it will calculate the cost of courier charge automatically followed by location distance.
 
 ## Live demo
-https://u-profile.herokuapp.com/
+https://fastcouriers.herokuapp.com/
 
 ## deployed server
 * Backend at pythonanywhere.com
